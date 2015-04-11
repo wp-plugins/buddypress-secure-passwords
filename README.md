@@ -33,3 +33,13 @@ There's no settings page for this plugin, it works out of the box. If you want t
 1. Upload the `buddypress-secure-passwords` folder to the `/wp-content/plugins/` directory.
 2. Check if BuddyPress is installed. If not, install BuddyPress before this plugin.
 3. Activate the plugin through the 'Plugins' menu in the WordPress admin area.
+
+== Changelog ==
+
+= 1.0 =
+* Initial version
+
+== Screenshots ==
+
+1. /assets/screenshots/weak-password.jpg
+2. /assets/screenshots/no-js.jpg
